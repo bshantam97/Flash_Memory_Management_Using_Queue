@@ -6,5 +6,9 @@ If the microcontroller detects there is a "WRITE DATA:" Command being passed in 
 Else if the microcontroller detects there is a "READ DATA:" Command being passed in the Serial terminal , then the previously stored data in the Flash Memory is displayed on the Serial terminal of the users smartphone.
 The size of the Flash memory is 1MB Which was partitioned into 64K for the Code and 960K to store incoming data.
 
-# Output
+# Output of the Serial Terminal 
+
+![Flash_Output](https://user-images.githubusercontent.com/51986101/63640525-6cc48a00-c66f-11e9-853a-7fa82a164297.png)
+
+# Flash Memory Contents
 
