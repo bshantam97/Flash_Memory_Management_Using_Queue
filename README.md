@@ -13,6 +13,10 @@
 * HC-05 Bluetooth Module
 * Jumper Wires
 
+# Drivers Used
+
+* The HAL driver library for STM32F4 was used in the project 
+
 # Partitioned memory region 
 
 * The regions were partitioned into Flash and UpFlash Region 
